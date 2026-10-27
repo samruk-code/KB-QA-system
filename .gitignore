@@ -22,3 +22,8 @@ htmlcov/
 # Data and OS
 data/raw/
 .DS_Store
+
+
+# .md files
+ROADMAP.md
+
